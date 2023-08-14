@@ -10,6 +10,6 @@ public class A {
         this.s=s;
     }
     public String meth(){
-        return this.s;
+        return "Invoking method from class A";
     }
 }
